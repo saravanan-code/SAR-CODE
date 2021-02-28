@@ -1,2 +1,2 @@
 # SAR-CODE
-computer sciencce engineering student
+computer science engineering student
